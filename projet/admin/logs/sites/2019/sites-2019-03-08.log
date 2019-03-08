@@ -1,0 +1,2 @@
+[08/Mar/2019:14:33:17 +0100] [upstream] Upstream starting: /usr/alwaysdata/apache/2.2.32/bin/apache -f /home/projet-cockail/admin/config/apache/apache.conf -D FOREGROUND (env: {'LANG': 'en_US.UTF-8', 'HOME': '/home/projet-cockail', 'LC_ALL': 'en_US.UTF-8'}, cwd: /home/projet-cockail/)
+[08/Mar/2019:14:33:17 +0100] [upstream] Upstream started PID: 385205
